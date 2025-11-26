@@ -1,5 +1,5 @@
 # IntuneAutomateMobile
-Access Microsoft Intune tenant metrics quickly on the go
+Get your Microsoft Intune Insights quickly and on the go.
 
 ![IntuneAutomate Mobile](IntuneAutomateMobile.png)
 
