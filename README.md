@@ -30,17 +30,17 @@ This solution is Microsoft-focused and runs entirely within your own tenant, lev
 A ready-to-use automation toolkit built using:
  
 - **x1 SharePoint List**  
-- **Microsoft Power Automate**  
-- **Microsoft Power Application**  
-- **Microsoft Intune**    
+- **x6 Microsoft Power Automate Flows**  
+- **x1 Microsoft Power Application**  
+- **Microsoft Intune/Entra data**    
 
-Our goal is to **simplify access to Intune data** be that as a manager or It Admin and improve quick access to compliance, Licensing, Applications registered, policies deployed and device status — all while leveraging tools you already have in Microsoft 365.
+Our goal is to **simplify access to Intune data** and gain quick insights as a Manager or IT Admin - Improve quick access to compliance, Licensing, Applications registered, policies deployed and device status — all while leveraging tools you already have in Microsoft 365.
 
 ---
 
 ## ✅ **GitHub**
 
-This repository currently includes **Three directories** to help you deploy in your environment: Setup guide, Power platform solution, SharePoint List (data source).
+This repository currently includes **Three directories** to help you deploy in your environment: Setup guide, Power platform solution, SharePoint List (data source). Start with the guide to become familiar with the steps required to deploy.
 
 ### 1. Compliance
 - Check-In with your compliance insights to see the status of your devices. Allows you make quick decisions.
